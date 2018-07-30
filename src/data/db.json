@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "RDJ",
+            "movies": "100"
+        },
+        {
+            "id": "2",
+            "name": "Tom Holland",
+            "movies": "3"
+        },
+        {
+            "id": "3",
+            "name": "Benedict Cumberbatch",
+            "movies": "10"
+        },
+        {
+            "id": "4",
+            "name": "Chris Hemsworth",
+            "movies": "30"
+        },
+        {
+            "id": "5",
+            "name": "Chris Evans",
+            "movies": "20"
+        }
+    ],
+    "roles": [
+        {
+            "id": "1",
+            "name": "supervisor",
+            "rights": "111222333"
+        },
+        {
+            "id": "2",
+            "name": "operator",
+            "rights": "111222333"
+        },
+        {
+            "id": "3",
+            "name": "podmanager",
+            "rights": "123123123"
+        }
+    ]
+}

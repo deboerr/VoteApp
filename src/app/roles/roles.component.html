@@ -1,0 +1,16 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Rights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let role of roles">
+      <td>{{ role.id }}</td>
+      <td>{{ role.name }}</td>
+      <td>{{ role.rights }}</td>
+    </tr>
+  </tbody>
+</table>
